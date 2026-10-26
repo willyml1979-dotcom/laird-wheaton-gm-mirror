@@ -1,6 +1,6 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-10-26T05:01:42",
+  "generated_at": "2026-10-26T05:08:54",
   "vehicle_count": 165,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1738,7 +1738,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 53608.0,
+      "price": 47608.0,
       "price_currency": "CAD"
     },
     {
