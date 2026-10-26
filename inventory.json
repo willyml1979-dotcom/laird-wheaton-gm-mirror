@@ -1,6 +1,6 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-10-25T20:08:05",
+  "generated_at": "2026-10-26T05:01:42",
   "vehicle_count": 165,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -17,7 +17,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Cherokee ",
+      "name": "2016 Jeep Cherokee Limited 4X4 | V6 + Pano Sunroof + Luxury Group",
       "vin": "1C4PJMDS2GW180734",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/20f9959f1ffd.html",
       "year": 2016,
@@ -94,7 +94,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota 4Runner ",
+      "name": "2020 Toyota 4Runner Limited 4X4 | V6, 7 Passenger, Sunroof",
       "vin": "JTEBU5JR6L5824398",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/01b4f7626410.html",
       "year": 2020,
@@ -369,7 +369,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Trax ",
+      "name": "2025 Chevrolet Trax LT True North Edition | Sunroof, Adaptive Cruise",
       "vin": "KL77LHE21SC266608",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/c3df4e7025c1.html",
       "year": 2025,
@@ -1511,7 +1511,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 ",
+      "name": "2026 Mazda CX-5 GT AWD | Leather + Ventilated Seats + HUD",
       "vin": "JM3KMCHA0T0108447",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/e21ff874f36f.html",
       "year": 2026,
@@ -1533,7 +1533,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross ",
+      "name": "2026 Toyota Corolla Cross LE AWD | Adaptive Cruise + Safety Tech, Low Kms",
       "vin": "7MUBAABG9TV158057",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/425d89bff889.html",
       "year": 2026,
