@@ -1,6 +1,6 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-10-25T19:56:00",
+  "generated_at": "2026-10-25T20:08:05",
   "vehicle_count": 165,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1441,7 +1441,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new",
-      "price": 49828.0,
+      "price": 46742.0,
       "price_currency": "CAD"
     },
     {
