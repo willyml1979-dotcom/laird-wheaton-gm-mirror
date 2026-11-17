@@ -1,7 +1,7 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-11-17T00:31:48",
-  "vehicle_count": 166,
+  "generated_at": "2026-11-17T00:58:12",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -303,17 +303,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX9RM129700",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/f0ff00be3951.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Buick Encore GX SPORT TOURING AWD | 1.3L Turbo + Low KM",
       "vin": "KL4AMESL7SB212148",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/082b68e57ad7.html",
@@ -473,7 +462,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 50903.0,
+      "price": 50403.0,
       "price_currency": "CAD"
     },
     {
@@ -484,7 +473,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 54232.0,
+      "price": 53732.0,
       "price_currency": "CAD"
     },
     {
@@ -495,7 +484,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 51172.0,
+      "price": 50672.0,
       "price_currency": "CAD"
     },
     {
@@ -506,7 +495,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 52197.0,
+      "price": 51697.0,
       "price_currency": "CAD"
     },
     {
@@ -517,18 +506,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 53822.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Avenir AWD | Massage Seats + Head Up Display",
-      "vin": "LRBFZSR48TD066812",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/cd009c433b11.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 52197.0,
+      "price": 53322.0,
       "price_currency": "CAD"
     },
     {
@@ -539,18 +517,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 54427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Avenir AWD | Massage Seats + Panoramic Roof",
-      "vin": "LRBFZSR48TD087241",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/01ff92b1aef4.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 51565.0,
+      "price": 53927.0,
       "price_currency": "CAD"
     },
     {
@@ -561,7 +528,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 51059.0,
+      "price": 50559.0,
       "price_currency": "CAD"
     },
     {
@@ -572,18 +539,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 45872.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Avenir AWD | Massage Seats + Panoramic Roof",
-      "vin": "LRBFZSR4XTD087130",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/379bef353be2.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 51577.0,
+      "price": 45372.0,
       "price_currency": "CAD"
     },
     {
@@ -594,7 +550,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 54422.0,
+      "price": 53922.0,
       "price_currency": "CAD"
     },
     {
@@ -708,6 +664,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Buick Envista Sport Touring | Moonstone Grey + Power Liftgate",
+      "vin": "KL47LBE29TB330024",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/63cbded51e43.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "new",
+      "price": 35737.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Envista SPORT TOURING | Ocean Blue + Power Liftgate",
+      "vin": "KL47LBE26TB331034",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/7424427c1387.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "new",
+      "price": 35737.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Envista SPORT TOURING | Ebony Twilight + Power Liftgate",
+      "vin": "KL47LBE21TB330809",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/421275f65023.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "new",
+      "price": 35832.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Envista SPORT TOURING | Turbocharged + Premium Comfort",
+      "vin": "KL47LBE27TB329437",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/c2aa3abef4fa.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "new",
+      "price": 35242.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Blazer EV 4X4 RS | Electric Performance + Commanding Style",
       "vin": "3GNKDJRJ9TS103629",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/fe66a6375156.html",
@@ -796,28 +796,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Colorado Trail Boss | 4WD | TurboMax",
-      "vin": "1GCPTEEK2T1277180",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/7e119173b602.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 53228.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Colorado 4X4 Trail Boss | 4X4 | TurboMax | 430 LB-FT Torque",
-      "vin": "1GCPTEEK5T1340188",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/e07cffc94f66.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 51599.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Colorado Z71 4WD | TurboMax + Sunroof + Technology Package",
       "vin": "1GCPTDEKXT1332436",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/6ea0c41704f7.html",
@@ -826,6 +804,39 @@
       "model": "Colorado",
       "condition": "new",
       "price": 63177.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado Z71 4X4 | Off-Road Capability + Premium Comfort",
+      "vin": "1GCPTDEK6T1326861",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/31341f58c808.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 63737.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado ZR2 4X4 | TurboMax + Tech Package + Sunroof",
+      "vin": "1GCPTFEK3T1328062",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/b1d88a7a6a8e.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 67828.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado 4X4 Trail Boss | 4X4 | TurboMax | 430 LB-FT Torque",
+      "vin": "1GCPTEEK5T1340188",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/2fb5c4f2e6ca.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 51599.0,
       "price_currency": "CAD"
     },
     {
@@ -840,28 +851,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV RS | Dual Motor AWD | Super Cruise, Pano Sunroof",
-      "vin": "3GN7DSRR5TS104293",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/4a282bfeb95a.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 59367.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 Custom 4x4 | Crew Cab | Built For Island Life",
-      "vin": "3GCPKBEK6TG487834",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/030e9338f31d.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 59212.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 RST | 4X4 5.3L V8 | Z71 Off Road",
       "vin": "2GCUKEED8T1197626",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/88b395fd166e.html",
@@ -869,18 +858,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 66973.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 RST | Duramax Diesel | 4WD | Bose Audio | Safety",
-      "vin": "3GCUKEE89TG514873",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/507c83af9924.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 72727.0,
+      "price": 64973.0,
       "price_currency": "CAD"
     },
     {
@@ -906,17 +884,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 3500 Trail Boss W/ 3\" BDS Lift - 35\" Tires + Fuel Rims",
-      "vin": "2GC4KTEY0T1221067",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/f097ba14b8fb.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 3500",
-      "condition": "new",
-      "price": 116875.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 3500 LT Trail Boss Duramax 4WD | Z71 + True North",
       "vin": "2GC4KTEY7T1221146",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5e98c305aabc.html",
@@ -924,7 +891,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500",
       "condition": "new",
-      "price": 106717.0,
+      "price": 97217.0,
       "price_currency": "CAD"
     },
     {
@@ -934,18 +901,18 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "new"
+      "condition": "new",
+      "price": -9500.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 3500 High Country | Duramax Diesel, Z71, 5th Wheel Prep",
-      "vin": "2GC4KVEY3T1245486",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/13fc47bca4cf.html",
+      "name": "2026 Chevrolet Silverado 3500 High Country 4X4 | Duramax Diesel + Luxury",
+      "vin": "1GC4KVEY2TF352294",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/f2ea8ff6313a.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "new",
-      "price": 115757.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "2026 Chevrolet Silverado EV Extended Range Trail Boss",
@@ -992,39 +959,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trailblazer AWD RS | Panoramic Sunroof, Sporty Design",
-      "vin": "KL79MUSL6TB143521",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/4319347e5742.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "new",
-      "price": 42837.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trailblazer AWD RS | Pano Sunroof, Bose Audio, Heated Seats",
-      "vin": "KL79MUSL0TB142347",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5705d8b5f13d.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "new",
-      "price": 43432.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trailblazer ACTIV AWD | Turbo Adventure with Panoramic Roof",
-      "vin": "KL79MSSLXTB144191",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/24f10cabd5e4.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "new",
-      "price": 43532.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Trailblazer RS AWD | Panoramic Roof + Heated Seats",
       "vin": "KL79MUSL2TB272761",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/c1658888f854.html",
@@ -1033,6 +967,17 @@
       "model": "Trailblazer",
       "condition": "new",
       "price": 42087.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trailblazer LS AWD | 1.3L Turbo + Confidence Package",
+      "vin": "KL79MNSL6TB086274",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/2b2d2f81764b.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "new",
+      "price": 34742.0,
       "price_currency": "CAD"
     },
     {
@@ -1077,28 +1022,6 @@
       "model": "Trax",
       "condition": "new",
       "price": 33797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax ACTIV | Cacti Green | Adaptive Cruise",
-      "vin": "KL77LKE23TC184054",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/880b271eb51f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 34542.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax RS Sport | Turbo, Remote Start, Advanced Tech",
-      "vin": "KL77LGE25TC175756",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/da5455b26bf6.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 30847.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,28 +1146,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Acadia AT4 AWD | 328 HP + 360 Camera + 3 Rows",
-      "vin": "1GKENPKS9TJ366251",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/78d548d35e70.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Acadia",
-      "condition": "new",
-      "price": 69578.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Canyon AT4 Premium 4X4 | TurboMax + Tech Plus + Sunroof",
-      "vin": "1GTP2DEK1T1306178",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/244ac7789b95.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 65817.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC Canyon AT4 Nightfall 4WD | TurboMax + Tech Plus + Sunroof",
       "vin": "1GTP2DEK5T1316065",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/a652a5568a5c.html",
@@ -1267,28 +1168,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Canyon AT4 | Coastal Dune | Nightfall Essentials | Turbo",
-      "vin": "1GTP2DEK8T1323169",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/624deff501df.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 67488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Canyon Denali",
-      "vin": "1GTP2FEK4T1333550",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/8a4fa2bd87cb.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 68852.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC Savana 2500 Cargo Van 2500 Cargo Van | 6.6L V8 | Work Ready",
       "vin": "1GTW7AF76T1240622",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/feb49c89cae5.html",
@@ -1300,6 +1179,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 GMC Savana 3500 Cargo Van 3500 | 6.6L V8 + Heavy-Duty Workhorse",
+      "vin": "1GTZ7HF77T1253871",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/92d4e1ba3c55.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Savana",
+      "condition": "new"
+    },
+    {
       "name": "2026 GMC Sierra 1500 SLT 5.3L V8 4WD | Max Trailering + Leather",
       "vin": "3GTUUDED1TG170019",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/41ebf40bada9.html",
@@ -1307,7 +1195,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 76742.0,
+      "price": 74742.0,
       "price_currency": "CAD"
     },
     {
@@ -1322,14 +1210,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 1500 4WD Crew Cab 147  Elevation",
-      "vin": "1GTUUCE84TZ496345",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/dda684517202.html",
+      "name": "2026 GMC Sierra 1500 Elevation | Duramax Diesel, 4X4, 495 LB-FT Torque",
+      "vin": "3GTUUCE87TG505538",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/bcf9ef8c1d58.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 74957.0,
+      "price": 67582.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 DENALI 4X4 | 6.2L V8 + Technology Package",
+      "vin": "1GTUUGEL1TZ535940",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/128ba6623d24.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 91252.0,
       "price_currency": "CAD"
     },
     {
@@ -1410,17 +1309,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 3500HD Denali Ultimate Duramax | 5th Wheel Prep + Massage",
-      "vin": "1GT4UYEY4TF316425",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/bb0718ed97b7.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "new",
-      "price": 135202.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC Sierra 3500HD Denali 4x4 | 6.6L Diesel | Heavy Duty Luxury",
       "vin": "1GT4UWEY0TF329533",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/0d8215452a92.html",
@@ -1443,7 +1331,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra EV ",
+      "name": "2026 GMC Sierra EV Max Range AT4 | Electric Power + Adventure",
       "vin": "1GT4EVEL2TU420097",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/4277aa317ea4.html",
       "year": 2026,
@@ -1451,17 +1339,6 @@
       "model": "Sierra EV",
       "condition": "new",
       "price": 114502.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Terrain AWD AT4 | Panoramic Sunroof, Safety Tech",
-      "vin": "3GKALYEG9TL199108",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5525b6db180f.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new",
-      "price": 46742.0,
       "price_currency": "CAD"
     },
     {
@@ -1506,17 +1383,6 @@
       "model": "Yukon",
       "condition": "new",
       "price": 110272.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Yukon Denali 4WD | Super Cruise | 3.0L Diesel",
-      "vin": "1GKS2DK84TR431507",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/f3d9132de39e.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "new",
-      "price": 122922.0,
       "price_currency": "CAD"
     },
     {
@@ -1586,17 +1452,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Bolt RS | Electric Sport Styling, Advanced Tech, Safety",
-      "vin": "1G1FZ6EVXVF115760",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/d2dfca9c6738.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41403.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chevrolet Bolt RS | Panoramic Roof + Premium EV Comfort",
       "vin": "1G1FZ6EV8VF118107",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/89fa038c04f4.html",
@@ -1627,17 +1482,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 45072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS EV | Tech Package | 150kW Fast Charging",
-      "vin": "1G1FZ6EV4VF120128",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/b2f95a16c47d.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 43203.0,
       "price_currency": "CAD"
     },
     {
@@ -1674,28 +1518,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Bolt RS | Panoramic Roof + Tech Package + 360 Camera",
-      "vin": "1G1FZ6EV5VF122969",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/d54e3de09b6e.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 44882.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS EV | Panoramic Roof + Tech Package + 360 Camera",
-      "vin": "1G1FZ6EV5VF123412",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/28a6924bc911.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 45377.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chevrolet Bolt LT | Adaptive Cruise + Fast Charge Adapters",
       "vin": "1G1FY6EV4VF122805",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/c495149bff5f.html",
@@ -1704,17 +1526,6 @@
       "model": "Bolt",
       "condition": "new",
       "price": 43778.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT EV | Heated Seats + Adaptive Cruise",
-      "vin": "1G1FY6EV4VF121573",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/656750840829.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 44113.0,
       "price_currency": "CAD"
     },
     {
@@ -1740,6 +1551,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Chevrolet Bolt LT ELECTRIC | Heated Comfort + Smart Safety",
+      "vin": "1G1FY6EV4VF108385",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/c6e05f3c32ef.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 44078.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT | All-Electric + Heated Seats + Fast Charging",
+      "vin": "1G1FY6EV6VF119033",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/1c2881497604.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 43398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS | Panoramic Sunroof + Technology Package",
+      "vin": "1G1FZ6EV7VF119670",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/a9054375b081.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 44652.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Corvette GRAND SPORT | 6.7L V8 + Z52 Performance",
+      "vin": "1G1YS2D54V5303252",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/d930850e6f64.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "condition": "new",
+      "price": 128788.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Chevrolet Equinox EV LT2 EV | 360 Camera + Heated Seats + Pwr Liftgate",
       "vin": "3GN7DNRP8VS109071",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5d182fbd8b6d.html",
@@ -1751,14 +1606,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Equinox EV LT1 | Dual-Motor AWD | Riptide Blue Metallic",
-      "vin": "3GN7DMRR4VS112304",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/9105903b535a.html",
+      "name": "2027 Chevrolet Equinox AWD ACTIV | Panoramic Sunroof, Loaded",
+      "vin": "3GNAXSEG6VL203347",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5fed884fe640.html",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV",
+      "model": "Equinox",
       "condition": "new",
-      "price": 47803.0,
+      "price": 49438.0,
       "price_currency": "CAD"
     },
     {
@@ -1806,17 +1661,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 GMC Terrain AT4 AWD | Panoramic Roof + 360 Camera",
-      "vin": "3GKALYEG8VL170217",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/96c5d4b8a8ba.html",
-      "year": 2027,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new",
-      "price": 52417.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 GMC Terrain AT4 AWD | Panoramic Roof + Tech II + 360 Camera",
       "vin": "3GKALYEG4VL169887",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/b4e61028d47d.html",
@@ -1825,6 +1669,17 @@
       "model": "Terrain",
       "condition": "new",
       "price": 52417.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Terrain ELEVATION AWD | Premium Package + 19-Inch Wheels",
+      "vin": "3GKALUEG3VL174247",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/dd30d04ba33a.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 45553.0,
       "price_currency": "CAD"
     }
   ]
