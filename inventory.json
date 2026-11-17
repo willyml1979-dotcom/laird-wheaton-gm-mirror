@@ -1,7 +1,7 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-10-26T05:08:54",
-  "vehicle_count": 165,
+  "generated_at": "2026-11-17T00:31:48",
+  "vehicle_count": 166,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -13,40 +13,29 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
+      "price": 11998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Chevrolet Sonic LT Hatchback | 1.4L Turbo + Heated Seats + Low KM",
+      "vin": "1G1JD6SB4H4168375",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/099f018445ab.html",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "condition": "used",
       "price": 12998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Cherokee Limited 4X4 | V6 + Pano Sunroof + Luxury Group",
-      "vin": "1C4PJMDS2GW180734",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/20f9959f1ffd.html",
-      "year": 2016,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 14998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 McLaren 570 570GT | Twin Turbo V8 | The Road Is Yours",
-      "vin": "SBM13GAA9HW001482",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ea66e7641ef7.html",
-      "year": 2017,
-      "make": "McLaren",
-      "model": "570 570GT",
-      "condition": "used",
-      "price": 149999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford F-150 5.0L V8 4WD | Tow Ready + Remote Start",
-      "vin": "1FTEW1E54JKE54269",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/cd1fcfc8a9fa.html",
+      "name": "2018 Chevrolet Colorado Z71 4X4 | Duramax Diesel + Off-Road Capability",
+      "vin": "1GCPTDE17J1229155",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ae8ff6128c0d.html",
       "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
+      "make": "Chevrolet",
+      "model": "Colorado",
       "condition": "used",
-      "price": 28999.0,
+      "price": 24998.0,
       "price_currency": "CAD"
     },
     {
@@ -57,40 +46,18 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 21998.0,
+      "price": 21498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 Big Horn HEMI 4X4 | V8 Power Meets Comfort",
-      "vin": "1C6SRFBT7KN890115",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/18928be50f24.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 27497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Explorer ST | 3.0L EcoBoost V6 | 4WD | 45,901 KM",
-      "vin": "1FM5K8GC9LGB69620",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/a313a15f6f35.html",
+      "name": "2020 Chevrolet Colorado ZR2 4X4 | 3.6L V6 + Off-Road Performance",
+      "vin": "1GCGTEEN0L1214752",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/f03ae72171ef.html",
       "year": 2020,
-      "make": "Ford",
-      "model": "Explorer",
+      "make": "Chevrolet",
+      "model": "Colorado",
       "condition": "used",
-      "price": 37998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Tesla Model Y Long Range AWD | Panoramic Roof + Heated Seats",
-      "vin": "5YJYGDEE5LF032281",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/de60c50442e2.html",
-      "year": 2020,
-      "make": "Tesla",
-      "model": "Model Y",
-      "condition": "used",
-      "price": 32999.0,
+      "price": 37996.0,
       "price_currency": "CAD"
     },
     {
@@ -112,7 +79,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "used",
-      "price": 72995.0,
+      "price": 71598.0,
       "price_currency": "CAD"
     },
     {
@@ -123,62 +90,40 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 26598.0,
+      "price": 26398.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Crosstrek ",
-      "vin": "JF2GTAGC9M8212691",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/6a1d83030306.html",
+      "name": "2021 Toyota Tacoma Double Cab Nightshade 4X4 | V6 + Leather + 360 Camera",
+      "vin": "5TFCZ5AN5MX260921",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/1a5172df0afa.html",
       "year": 2021,
-      "make": "Subaru",
-      "model": "Crosstrek",
+      "make": "Toyota",
+      "model": "Tacoma",
       "condition": "used",
-      "price": 25998.0,
+      "price": 47998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Buick Encore Preferred AWD | Low KM | Turbo",
-      "vin": "KL4CJESM6NB542314",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/940807bbbc68.html",
+      "name": "2022 Chevrolet Silverado 1500 LTD RST 4X4 | 5.3L V8 + Crew Cab Comfort",
+      "vin": "1GCUYEED9NZ112494",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/d209d87cecd7.html",
       "year": 2022,
-      "make": "Buick",
-      "model": "Encore",
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "used",
-      "price": 22298.0,
+      "price": 40998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Buick Envision Avenir Luxury | Turbo + Quiet Tuning + High Tech",
-      "vin": "LRBFZSR46ND052636",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ee744a4c66ae.html",
+      "name": "2022 Chevrolet Silverado 1500 LT Trail Boss 4X4 | 5.3L V8, 355 HP",
+      "vin": "3GCUDFED9NG662778",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/2769ab288e00.html",
       "year": 2022,
-      "make": "Buick",
-      "model": "Envision",
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "used",
-      "price": 25398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 GMC Sierra 1500 AT4 Crew Cab 4WD",
-      "vin": "3GTUUEET1NG539526",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/4907f372663c.html",
-      "year": 2022,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 53998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda HR-V Touring AWD | Sunroof | Leather | Adaptive Cruise",
-      "vin": "3CZRU6H94NM101185",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/e377c23019fe.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 27777.0,
+      "price": 46498.0,
       "price_currency": "CAD"
     },
     {
@@ -189,7 +134,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 106278.0,
+      "price": 99999.0,
       "price_currency": "CAD"
     },
     {
@@ -200,18 +145,7 @@
       "make": "Cadillac",
       "model": "XT5",
       "condition": "used",
-      "price": 43778.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Bolt EUV Premier | Leather + Cooled Seats + 360 Camera",
-      "vin": "1G1FZ6S00P4146281",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/fc6b8e9b1f6c.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Bolt EUV",
-      "condition": "used",
-      "price": 28998.0,
+      "price": 40998.0,
       "price_currency": "CAD"
     },
     {
@@ -222,29 +156,29 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "used",
-      "price": 79998.0,
+      "price": 78888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru Solterra Luxury AWD EV | X-MODE + Heated Comfort",
-      "vin": "JTMABABA0PA043526",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/0dcbd1284afa.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "Solterra",
-      "condition": "used",
-      "price": 34998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Blazer EV AWD LT | Low Kms, One Owner, Premier EV Experience",
-      "vin": "3GNKDBRJ5RS238637",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/5c351021a9f8.html",
+      "name": "2024 Buick Envision AVENIR AWD | Panoramic Roof + Premium Luxury",
+      "vin": "LRBFZSE40RD075227",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/cd8a1f649c49.html",
       "year": 2024,
-      "make": "Chevrolet",
-      "model": "Blazer EV",
+      "make": "Buick",
+      "model": "Envision",
       "condition": "used",
-      "price": 39841.0,
+      "price": 37598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Buick Envista Avenir | Leather + Sunroof + 19 Inch Wheels",
+      "vin": "KL47LCE23RB097918",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/1251b321e7bf.html",
+      "year": 2024,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "used",
+      "price": 25799.0,
       "price_currency": "CAD"
     },
     {
@@ -255,29 +189,40 @@
       "make": "Chevrolet",
       "model": "Blazer",
       "condition": "used",
-      "price": 39743.0,
+      "price": 37777.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Colorado Work Truck | 2.7L Turbo | Modern Tech",
-      "vin": "1GCGSBEC6R1251488",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/9392a0e77dd4.html",
+      "name": "2024 Chevrolet Equinox EV RS AWD | Dual-Motor Electric + 21-Inch Wheels",
+      "vin": "3GN7DSRR9RS261656",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/884441d66e4b.html",
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Colorado",
+      "model": "Equinox EV",
       "condition": "used",
-      "price": 35498.0,
+      "price": 36698.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Silverado 1500 ",
+      "name": "2024 Chevrolet Equinox LS AWD | 1.5L Turbo + Heated Seats + Low KMS",
+      "vin": "3GNAXSEG4RL196971",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/d6cea8a06103.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Silverado 1500 LT Trail Boss 4X4 | V8, 420HP, Off Road Capability",
       "vin": "3GCUDFEL2RG435235",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/e64efcd90934.html",
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 54788.0,
+      "price": 53998.0,
       "price_currency": "CAD"
     },
     {
@@ -288,18 +233,29 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 22998.0,
+      "price": 19303.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Canyon Elevation 4x4 | Turbo | Built For Island Life",
-      "vin": "1GTP6BEK2R1316705",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/597d25298e1a.html",
+      "name": "2024 Chevrolet Trax 1RS | 1.2L Turbo + Sport Styling + Low KM",
+      "vin": "KL77LGE20RC000971",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/f5b6972a6bb9.html",
       "year": 2024,
-      "make": "GMC",
-      "model": "Canyon",
+      "make": "Chevrolet",
+      "model": "Trax",
       "condition": "used",
-      "price": 38999.0,
+      "price": 21998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford F-150 XLT 4X4 | 3.5L EcoBoost + Ready For Anything",
+      "vin": "1FTFW3L85RKE16929",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/8200157161e6.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 54998.0,
       "price_currency": "CAD"
     },
     {
@@ -310,7 +266,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 34777.0,
+      "price": 32553.0,
       "price_currency": "CAD"
     },
     {
@@ -321,7 +277,7 @@
       "make": "Kia",
       "model": "Niro Plug-In Hybrid",
       "condition": "used",
-      "price": 27777.0,
+      "price": 25888.0,
       "price_currency": "CAD"
     },
     {
@@ -336,6 +292,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Volkswagen Tiguan Comfortline AWD | 2.0L Turbo + Heated Comfort",
+      "vin": "3VV2B7AX9RM129700",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/9ec3216248f4.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 27398.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volkswagen Tiguan ",
       "vin": "3VV2B7AX9RM129700",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/f0ff00be3951.html",
@@ -344,6 +311,17 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Buick Encore GX SPORT TOURING AWD | 1.3L Turbo + Low KM",
+      "vin": "KL4AMESL7SB212148",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/082b68e57ad7.html",
+      "year": 2025,
+      "make": "Buick",
+      "model": "Encore GX",
+      "condition": "used",
+      "price": 29998.0,
       "price_currency": "CAD"
     },
     {
@@ -365,8 +343,17 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 58998.0,
+      "price": 56998.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chevrolet Trailblazer ACTIV AWD | Adventure Ready + Turbocharged",
+      "vin": "KL79MSSL8SB040247",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/dff04341fd74.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "used"
     },
     {
       "name": "2025 Chevrolet Trax LT True North Edition | Sunroof, Adaptive Cruise",
@@ -380,6 +367,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Chevrolet Trax ACTIV | Turbo + Heated Comfort + Adaptive Cruise",
+      "vin": "KL77LKE25SC057224",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/19c04f745a28.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chevrolet Trax 1RS | 10,689 KM + Heated Seats + Sport Styling",
+      "vin": "KL77LGE22SC183974",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/7af1fed6b1b6.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 24398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chevrolet Trax 1RS | Crimson Metallic + Sunroof + Low KM",
+      "vin": "KL77LGE22SC074172",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/2e612daa1e9c.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 28184.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 GMC Sierra 1500 Denali 4x4 | 3.0L Diesel | Adaptive Cruise",
       "vin": "3GTUUGE89SG182146",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/8c8c5e78a55b.html",
@@ -387,18 +407,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 71998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Kona Preferred | Smart Tech, Urban SUV, Push Start",
-      "vin": "KM8HB3AB0SU324720",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/441eeb2d756e.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 26888.0,
+      "price": 69998.0,
       "price_currency": "CAD"
     },
     {
@@ -718,6 +727,17 @@
       "model": "Silverado 3500",
       "condition": "used",
       "price": 93777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trailblazer AWD RS | Pano Sunroof, Bose Audio, Heated Seats",
+      "vin": "KL79MUSL0TB142347",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/c95b92169fbf.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "used",
+      "price": 43432.0,
       "price_currency": "CAD"
     },
     {
@@ -1522,25 +1542,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE Upgrade AWD | Hybrid | Made For Island Drives",
+      "name": "2026 Toyota Camry SE Upgrade AWD | Hybrid | Made For Island Drives",
       "vin": "4T1DBADK5TU543818",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/a1f0627b4370.html",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ee23168ad26b.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 43998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross LE AWD | Adaptive Cruise + Safety Tech, Low Kms",
-      "vin": "7MUBAABG9TV158057",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/425d89bff889.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 35598.0,
+      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
@@ -1551,7 +1560,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 32888.0,
+      "price": 32298.0,
       "price_currency": "CAD"
     },
     {
