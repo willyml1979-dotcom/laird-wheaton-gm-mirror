@@ -7,7 +7,7 @@ Laird Wheaton GM is a  dealership in Nanaimo. This site is an AI-readable mirror
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ and https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/ (about 153 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/ and https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/ (about 150 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/llms.txt

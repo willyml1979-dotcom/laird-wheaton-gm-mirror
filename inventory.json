@@ -1,7 +1,7 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-11-17T00:58:12",
-  "vehicle_count": 153,
+  "generated_at": "2026-11-17T21:10:11",
+  "vehicle_count": 150,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -68,7 +68,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "condition": "used",
-      "price": 51998.0,
+      "price": 51498.0,
       "price_currency": "CAD"
     },
     {
@@ -92,6 +92,15 @@
       "condition": "used",
       "price": 26398.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Lexus NX",
+      "vin": "JTJAARDZ8M5026334",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/8d7a3c167c77.html",
+      "year": 2021,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "used"
     },
     {
       "name": "2021 Toyota Tacoma Double Cab Nightshade 4X4 | V6 + Leather + 360 Camera",
@@ -226,17 +235,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Trax LT | Turbo, Apple CarPlay, Heated Seats",
-      "vin": "KL77LHE25RC142030",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/554c32d3f300.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 19303.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Chevrolet Trax 1RS | 1.2L Turbo + Sport Styling + Low KM",
       "vin": "KL77LGE20RC000971",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/f5b6972a6bb9.html",
@@ -288,7 +286,7 @@
       "make": "Lincoln",
       "model": "Aviator",
       "condition": "used",
-      "price": 63888.0,
+      "price": 61998.0,
       "price_currency": "CAD"
     },
     {
@@ -321,7 +319,7 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "used",
-      "price": 64995.0,
+      "price": 60998.0,
       "price_currency": "CAD"
     },
     {
@@ -352,7 +350,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 24998.0,
+      "price": 24498.0,
       "price_currency": "CAD"
     },
     {
@@ -378,28 +376,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Trax 1RS | Crimson Metallic + Sunroof + Low KM",
-      "vin": "KL77LGE22SC074172",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/2e612daa1e9c.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 28184.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Sierra 1500 Denali 4x4 | 3.0L Diesel | Adaptive Cruise",
-      "vin": "3GTUUGE89SG182146",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/8c8c5e78a55b.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 69998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mitsubishi Outlander PHEV SEL | AWD Plug-In Hybrid",
       "vin": "JA4T5VA90SZ602883",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/5c0f43b0fe6b.html",
@@ -407,7 +383,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 46998.0,
+      "price": 45798.0,
       "price_currency": "CAD"
     },
     {
@@ -418,7 +394,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 30998.0,
+      "price": 30498.0,
       "price_currency": "CAD"
     },
     {
@@ -715,7 +691,7 @@
       "make": "Chevrolet",
       "model": "Blazer EV",
       "condition": "used",
-      "price": 59998.0,
+      "price": 57888.0,
       "price_currency": "CAD"
     },
     {
@@ -1386,17 +1362,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 5 Preferred AWD | Electric | Only 7,596 KM",
-      "vin": "KM8KNDDC3TU399064",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/777ccdbf3571.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 55998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-5 GT AWD | Leather + Ventilated Seats + HUD",
       "vin": "JM3KMCHA0T0108447",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/e21ff874f36f.html",
@@ -1404,7 +1369,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 45998.0,
+      "price": 45777.0,
       "price_currency": "CAD"
     },
     {
