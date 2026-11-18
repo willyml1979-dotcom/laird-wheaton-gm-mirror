@@ -1,6 +1,6 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-11-17T21:10:11",
+  "generated_at": "2026-11-17T21:23:45",
   "vehicle_count": 150,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -537,7 +537,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 53927.0,
+      "price": 53427.0,
       "price_currency": "CAD"
     },
     {
@@ -548,7 +548,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 52627.0,
+      "price": 52127.0,
       "price_currency": "CAD"
     },
     {
@@ -559,7 +559,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 53723.0,
+      "price": 53223.0,
       "price_currency": "CAD"
     },
     {
@@ -849,6 +849,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Chevrolet Silverado 1500 LT",
+      "vin": "1GCUKDED6TZ545831",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/510e1269b191.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 65048.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 RST",
+      "vin": "1GCUKEE86TZ555607",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/d525cf60410f.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 72653.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Silverado 2500 WT Z71 | Duramax Diesel Power",
       "vin": "1GC5KLEY2TF224968",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/111238a63d5d.html",
@@ -1034,17 +1056,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax 1RS | Marina Blue + Heated Seats + Remote Start",
-      "vin": "KL77LGE23TC211900",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/3ae19ec05a5f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 31362.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Trax LT | Adaptive Cruise + Heated Seats + Remote Start",
       "vin": "KL77LHE2XTC239280",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/7d43506cc8fa.html",
@@ -1100,17 +1111,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax ACTIV",
-      "vin": "KL77LKE27TC280141",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/559a096fe43c.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 34523.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 GMC Acadia AT4 AWD | Panoramic Roof + 360 Camera",
       "vin": "1GKENPKS4TJ361765",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/74d7ccbf9e34.html",
@@ -1151,7 +1151,7 @@
       "make": "GMC",
       "model": "Savana",
       "condition": "new",
-      "price": 60163.0,
+      "price": 58163.0,
       "price_currency": "CAD"
     },
     {
@@ -1182,7 +1182,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 64113.0,
+      "price": 62113.0,
       "price_currency": "CAD"
     },
     {
@@ -1208,14 +1208,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Sierra 2500HD AT4X Duramax Turbo Diesel V8, 4X4, Advanced Tech",
+      "name": "2026 GMC Sierra 1500 Denali",
+      "vin": "1GTUUGEL1TZ543861",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/27b07bbc6237.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 90553.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 2500HD Crew Cab AT4X Duramax Turbo Diesel V8, 4X4, Advanced Tech",
       "vin": "1GT4UZEY4TF340374",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/5747bc0c5859.html",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/8de6f4a0e0f7.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500HD",
       "condition": "new",
-      "price": 123572.0,
+      "price": 130572.0,
       "price_currency": "CAD"
     },
     {
@@ -1249,17 +1260,6 @@
       "model": "Sierra 3500HD",
       "condition": "new",
       "price": 98467.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 3500HD Denali Duramax 4WD | Reserve + 5th Wheel Prep",
-      "vin": "1GT4UWEY9TF336139",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/8384346ce3c9.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "new",
-      "price": 119227.0,
       "price_currency": "CAD"
     },
     {
@@ -1462,17 +1462,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt RS | Panoramic Roof + Tech Package + 360 Camera",
-      "vin": "1G1FZ6EV5VF123183",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/b55d8709e16f.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 44882.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt RS | Panoramic Roof + Tech Package + 360 Camera",
       "vin": "1G1FZ6EV2VF123206",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/26a79d5800a8.html",
       "year": 2027,
@@ -1538,17 +1527,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Bolt RS | Panoramic Sunroof + Technology Package",
-      "vin": "1G1FZ6EV7VF119670",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/a9054375b081.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 44652.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chevrolet Corvette GRAND SPORT | 6.7L V8 + Z52 Performance",
       "vin": "1G1YS2D54V5303252",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/d930850e6f64.html",
@@ -1582,6 +1560,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Chevrolet Equinox AWD RS",
+      "vin": "3GNAXTEG2VL240871",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/7947fed1456f.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 51353.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Chevrolet Traverse Z71 AWD | 7 Passenger | Panoramic Roof",
       "vin": "1GNEVJKS2VJ122394",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/a43c28066c43.html",
@@ -1612,6 +1601,17 @@
       "model": "Acadia",
       "condition": "new",
       "price": 70437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Acadia Elevation",
+      "vin": "1GKEMNKS6VJ188437",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/a2dbbb9ac71d.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "new",
+      "price": 65388.0,
       "price_currency": "CAD"
     },
     {
