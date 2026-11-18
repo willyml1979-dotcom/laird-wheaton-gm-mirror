@@ -1,7 +1,7 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-11-18T06:48:03",
-  "vehicle_count": 150,
+  "generated_at": "2026-11-18T15:16:03",
+  "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -61,17 +61,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota 4Runner Limited 4X4 | V6, 7 Passenger, Sunroof",
-      "vin": "JTEBU5JR6L5824398",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/01b4f7626410.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 51498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 GMC Sierra 3500HD Denali | Duramax Diesel | 4WD | 910 LB-FT Torque",
       "vin": "1GT49WEY5MF168633",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/bdc1fae263a3.html",
@@ -122,17 +111,6 @@
       "model": "Silverado 1500",
       "condition": "used",
       "price": 40998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Silverado 1500 LT Trail Boss 4X4 | 5.3L V8, 355 HP",
-      "vin": "3GCUDFED9NG662778",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/2769ab288e00.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 46498.0,
       "price_currency": "CAD"
     },
     {
@@ -257,17 +235,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda CR-V LX-B | AWD | Turbocharged | 41,699 KM",
-      "vin": "2HKRS4H25RH116695",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/b3f801bcedb9.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 32553.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Kia Niro Plug-In Hybrid EX Hybrid | 4.6 L/100 KM City + Heated Seats",
       "vin": "KNDCS3LF0R5205603",
       "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/dab7d5aaeb06.html",
@@ -309,17 +276,6 @@
       "model": "Encore GX",
       "condition": "used",
       "price": 29998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Colorado ZR2 4X4 BISON EDITION W/TECH PKG",
-      "vin": "1GCPTFEK0S1156846",
-      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/15677ffb6dbe.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 60998.0,
       "price_currency": "CAD"
     },
     {

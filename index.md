@@ -1,6 +1,6 @@
 # Laird Wheaton GM
 
- dealership in Nanaimo. AI-readable inventory mirror, about 150 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 146 vehicles.
 
 - Official website: https://www.lairdwheaton.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/used/
