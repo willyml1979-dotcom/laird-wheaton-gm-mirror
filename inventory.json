@@ -1,7 +1,7 @@
 {
   "dealership": "Laird Wheaton Gm",
-  "generated_at": "2026-11-18T15:16:03",
-  "vehicle_count": 146,
+  "generated_at": "2026-11-18T21:34:04",
+  "vehicle_count": 147,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -581,7 +581,7 @@
       "make": "Buick",
       "model": "Envista",
       "condition": "new",
-      "price": 34630.0,
+      "price": 36437.0,
       "price_currency": "CAD"
     },
     {
@@ -680,7 +680,7 @@
       "make": "Chevrolet",
       "model": "Blazer EV",
       "condition": "new",
-      "price": 67927.0,
+      "price": 63427.0,
       "price_currency": "CAD"
     },
     {
@@ -691,7 +691,7 @@
       "make": "Chevrolet",
       "model": "Blazer EV",
       "condition": "new",
-      "price": 76792.0,
+      "price": 72292.0,
       "price_currency": "CAD"
     },
     {
@@ -887,7 +887,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "new",
-      "price": 113062.0,
+      "price": 99888.0,
       "price_currency": "CAD"
     },
     {
@@ -1172,6 +1172,17 @@
       "model": "Sierra 1500",
       "condition": "new",
       "price": 90553.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 AT4",
+      "vin": "3GTUUEEL7TG424216",
+      "url": "https://willyml1979-dotcom.github.io/laird-wheaton-gm-mirror/new/fae0a1ee400d.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 84828.0,
       "price_currency": "CAD"
     },
     {
